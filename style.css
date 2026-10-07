@@ -1,0 +1,16 @@
+.group{
+    display: flex;
+     gap: 36%;
+}
+.background{
+    background-color: black;
+}
+.group2{
+    display: flex;
+    gap: 20%;
+}
+.header_group{
+    display: flex;
+    gap: 3%;
+    
+}
